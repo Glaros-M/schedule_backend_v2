@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="table" >
+{% for day_lesson, len, date in days_lessons_list %}
+
+<h3>{{date}}</h3>
+<table width="90%" border="solid black 0px">
+
+    {% if day_lesson %}
+        {% for i in range(len) %}
+            {% set lesson = day_lesson[i] %}
+
+            <tr>
+
+
+                {% if i == 0 %}
+
+                    <td rowspan="{{len}}" style="width: 0; white-space: nowrap;">
+                        {{days_name[lesson.weekday]}}
+                    </td>
+                    <td style="width: 0; white-space: nowrap;">
+                        {{lesson.time_start}}-{{lesson.time_end}}
+                    </td>
+                    <td style="width: 100%;">
+                        <span>{{lesson.type}} {{lesson.subject}} {% if lesson.subgroup > 0 %} {{lesson.subgroup}} пг. {% endif %}</span><br>
+                        <span>{{lesson.teachers}}</span><br>
+                        <span>{{lesson.auditories}}</span><br>
+                    </td>
+                {% else %}
+                    <td style="width: 0; white-space: nowrap;">
+                        {{lesson.time_start}}-{{lesson.time_end}}
+                    </td>
+                    <td style="width: 100%;">
+                        <span>{{lesson.type}} {{lesson.subject}} {% if lesson.subgroup > 0 %} {{lesson.subgroup}} пг. {% endif %}</span><br>
+                        <span>{{lesson.teachers}}</span><br>
+                        <span>{{lesson.auditories}}</span><br>
+                    </td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+    {% else %}
+        <tr>
+            <td>
+                Занятий нет
+            </td>
+        </tr>
+    {% endif %}
+</table>
+<br>
+{% endfor %}
+</div>
+</body>
+</html>

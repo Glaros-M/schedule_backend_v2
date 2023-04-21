@@ -1,0 +1,115 @@
+INFO 2023-03-22 08:28:09,756 main > RUNING! 
+INFO 2023-03-22 08:28:34,085 main > get / 
+INFO 2023-03-22 08:28:40,803 main > get teachers 
+INFO 2023-03-22 08:29:14,091 main > get teacher's schedule for |Áîğîäèíà Â.Â.|  
+INFO 2023-03-22 08:29:22,091 main > get / 
+INFO 2023-03-22 08:29:30,659 main > get teachers 
+INFO 2023-03-22 08:29:42,057 main > get teacher's schedule for |Ğàçèíüêîâ Å.Ì.|  
+INFO 2023-03-22 08:29:51,070 main > get / 
+INFO 2023-03-22 08:29:56,689 main > get schedule for |ÈÑ1-221-ÎÒ|  
+INFO 2023-03-22 08:30:04,492 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 08:31:35,439 main > RUNING! 
+INFO 2023-03-22 08:31:39,283 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 08:33:11,209 main > RUNING! 
+INFO 2023-03-22 08:43:38,483 main > RUNING! 
+INFO 2023-03-22 08:43:43,622 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 09:06:57,670 main > RUNING! 
+INFO 2023-03-22 09:07:00,692 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 09:22:57,721 main > get teachers 
+INFO 2023-03-22 09:23:00,099 main > get teachers 
+INFO 2023-03-22 09:24:54,826 main > RUNING! 
+INFO 2023-03-22 09:24:57,279 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 09:25:19,506 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 09:25:51,791 main > RUNING! 
+INFO 2023-03-22 09:25:53,941 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 09:27:17,714 main > RUNING! 
+INFO 2023-03-22 09:27:20,353 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+INFO 2023-03-22 11:40:37,955 main > RUNING! 
+INFO 2023-03-22 11:40:53,787 main > get teacher's schedule for |Ğåáğèùåâà Ì.Ã.|  
+DEBUG 2023-03-22 11:40:53,788 download_data > get_groups_list() 
+INFO 2023-03-22 11:41:02,313 main > get teachers 
+DEBUG 2023-03-22 11:41:02,313 download_data > get_groups_list() 
+INFO 2023-03-22 11:41:12,111 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:41:12,111 download_data > get_groups_list() 
+INFO 2023-03-22 11:41:15,074 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:41:15,074 download_data > get_groups_list() 
+INFO 2023-03-22 11:41:20,360 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 11:41:20,360 download_data > get_groups_list() 
+INFO 2023-03-22 11:43:55,222 main > RUNING! 
+INFO 2023-03-22 11:43:58,549 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 11:43:58,550 download_data > get_groups_list() 
+INFO 2023-03-22 11:44:20,079 main > RUNING! 
+INFO 2023-03-22 11:44:21,241 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 11:44:21,241 download_data > t 
+DEBUG 2023-03-22 11:44:21,241 download_data > get_groups_list() 
+INFO 2023-03-22 11:44:54,990 main > RUNING! 
+INFO 2023-03-22 11:44:56,578 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 11:44:56,578 download_data > t 
+DEBUG 2023-03-22 11:44:56,578 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:02,320 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:02,320 download_data > t 
+DEBUG 2023-03-22 11:45:02,320 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:22,742 main > RUNING! 
+INFO 2023-03-22 11:45:25,099 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:25,100 download_data > t 
+DEBUG 2023-03-22 11:45:25,100 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:26,741 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:26,741 download_data > t 
+DEBUG 2023-03-22 11:45:26,741 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:40,911 main > RUNING! 
+INFO 2023-03-22 11:45:42,889 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:42,890 download_data > t 
+DEBUG 2023-03-22 11:45:42,890 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:45,461 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:45,461 download_data > t 
+DEBUG 2023-03-22 11:45:45,461 download_data > get_groups_list() 
+INFO 2023-03-22 11:45:50,926 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:45:50,926 download_data > t 
+DEBUG 2023-03-22 11:45:50,926 download_data > get_groups_list() 
+INFO 2023-03-22 11:57:26,239 main > RUNING! 
+INFO 2023-03-22 11:57:28,977 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-03-22 11:57:28,978 download_data > get_groups_list() 
+INFO 2023-03-22 11:57:36,889 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 11:57:36,889 download_data > get_groups_list() 
+INFO 2023-03-22 12:23:21,574 main > RUNING! 
+INFO 2023-03-22 12:23:22,701 main > get teacher's schedule for |Àáğàìîâ Â.Â. |  
+DEBUG 2023-03-22 12:23:22,701 download_data > get_groups_list() 
+INFO 2023-03-22 12:23:26,182 main > get teachers 
+DEBUG 2023-03-22 12:23:26,182 download_data > get_groups_list() 
+INFO 2023-03-22 15:15:41,301 main > RUNING! 
+INFO 2023-03-22 15:16:27,440 main > get schedule for |ËÀ2-191-ÇÁ|  
+INFO 2023-03-22 15:16:43,812 main > RUNING! 
+INFO 2023-03-22 15:16:46,058 main > get schedule for |ËÀ2-191-ÇÁ|  
+INFO 2023-03-22 15:19:13,524 main > RUNING! 
+INFO 2023-03-22 15:19:38,633 main > RUNING! 
+INFO 2023-03-22 15:19:40,339 main > get schedule for |ËÀ2-191-ÇÁ|  
+DEBUG 2023-03-22 15:19:40,350 view_generator > 22-03-2023 
+DEBUG 2023-03-22 15:19:40,360 view_generator > 23-03-2023 
+DEBUG 2023-03-22 15:19:40,372 view_generator > 24-03-2023 
+DEBUG 2023-03-22 15:19:40,383 view_generator > 25-03-2023 
+DEBUG 2023-03-22 15:19:40,394 view_generator > 26-03-2023 
+DEBUG 2023-03-22 15:19:40,403 view_generator > 27-03-2023 
+DEBUG 2023-03-22 15:19:40,412 view_generator > 28-03-2023 
+DEBUG 2023-03-22 15:19:40,423 view_generator > 29-03-2023 
+DEBUG 2023-03-22 15:19:40,435 view_generator > 30-03-2023 
+DEBUG 2023-03-22 15:19:40,445 view_generator > 31-03-2023 
+DEBUG 2023-03-22 15:19:40,456 view_generator > 01-04-2023 
+DEBUG 2023-03-22 15:19:40,468 view_generator > 02-04-2023 
+DEBUG 2023-03-22 15:19:40,478 view_generator > 03-04-2023 
+DEBUG 2023-03-22 15:19:40,488 view_generator > 04-04-2023 
+INFO 2023-03-22 15:24:13,950 main > RUNING! 
+INFO 2023-03-22 15:24:16,137 main > get schedule for |ËÀ2-191-ÇÁ|  
+DEBUG 2023-03-22 15:24:16,150 view_generator > date='22-03-2023' 
+DEBUG 2023-03-22 15:24:16,164 view_generator > date='23-03-2023' 
+DEBUG 2023-03-22 15:24:16,176 view_generator > date='24-03-2023' 
+DEBUG 2023-03-22 15:24:16,187 view_generator > date='25-03-2023' 
+DEBUG 2023-03-22 15:24:16,198 view_generator > date='26-03-2023' 
+DEBUG 2023-03-22 15:24:16,207 view_generator > date='27-03-2023' 
+DEBUG 2023-03-22 15:24:16,217 view_generator > date='28-03-2023' 
+DEBUG 2023-03-22 15:24:16,227 view_generator > date='29-03-2023' 
+DEBUG 2023-03-22 15:24:16,238 view_generator > date='30-03-2023' 
+DEBUG 2023-03-22 15:24:16,250 view_generator > date='31-03-2023' 
+DEBUG 2023-03-22 15:24:16,259 view_generator > date='1-04-2023' 
+DEBUG 2023-03-22 15:24:16,270 view_generator > date='2-04-2023' 
+DEBUG 2023-03-22 15:24:16,281 view_generator > date='3-04-2023' 
+DEBUG 2023-03-22 15:24:16,289 view_generator > date='4-04-2023' 

@@ -1,0 +1,4 @@
+INFO 2023-04-21 14:40:52,126 main > RUNING  on http://localhost:9000 
+INFO 2023-04-21 14:40:56,068 main > get / 
+INFO 2023-04-21 14:47:58,870 main > get teachers 
+DEBUG 2023-04-21 14:47:58,876 download_data > get_groups_list() 

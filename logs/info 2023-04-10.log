@@ -1,0 +1,34 @@
+INFO 2023-04-10 16:41:47,140 main > RUNING  on http://0.0.0.0:9000 
+INFO 2023-04-10 16:42:34,500 main > get / 
+INFO 2023-04-10 16:42:42,210 main > get / 
+INFO 2023-04-10 16:44:12,993 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+DEBUG 2023-04-10 16:44:12,997 download_data > get_groups_list() 
+DEBUG 2023-04-10 16:44:13,050 view_generator > date='10-04-2023' 
+DEBUG 2023-04-10 16:44:13,262 view_generator > date='11-04-2023' 
+DEBUG 2023-04-10 16:44:13,403 view_generator > date='12-04-2023' 
+DEBUG 2023-04-10 16:44:13,435 view_generator > date='13-04-2023' 
+DEBUG 2023-04-10 16:44:13,594 view_generator > date='14-04-2023' 
+DEBUG 2023-04-10 16:44:13,746 view_generator > date='15-04-2023' 
+DEBUG 2023-04-10 16:44:13,879 view_generator > date='16-04-2023' 
+DEBUG 2023-04-10 16:44:14,031 view_generator > date='17-04-2023' 
+DEBUG 2023-04-10 16:44:14,179 view_generator > date='18-04-2023' 
+DEBUG 2023-04-10 16:44:14,334 view_generator > date='19-04-2023' 
+DEBUG 2023-04-10 16:44:14,365 view_generator > date='20-04-2023' 
+DEBUG 2023-04-10 16:44:14,399 view_generator > date='21-04-2023' 
+DEBUG 2023-04-10 16:44:14,420 view_generator > date='22-04-2023' 
+DEBUG 2023-04-10 16:44:14,440 view_generator > date='23-04-2023' 
+INFO 2023-04-10 16:45:14,710 main > RUNING  on http://0.0.0.0:9000 
+INFO 2023-04-10 16:45:38,780 main > RUNING  on http://localhost:9000 
+INFO 2023-04-10 16:45:42,362 main > get teacher's schedule for |Àáğàìîâ Â.Â.|  
+INFO 2023-04-10 16:45:48,299 main > get teachers 
+INFO 2023-04-10 16:45:54,956 main > get groups 
+INFO 2023-04-10 16:46:10,367 main > get schedule for |ÀÑ2-221-ÎÁ|  
+INFO 2023-04-10 16:46:13,087 main > get schedule for |ÀÑ2-221-ÎÁ|  
+INFO 2023-04-10 16:46:52,852 main > RUNING  on http://localhost:9000 
+INFO 2023-04-10 16:47:36,954 main > RUNING  on http://localhost:9000 
+INFO 2023-04-10 16:48:52,771 main > RUNING  on http://localhost:9000 
+INFO 2023-04-10 16:48:55,545 main > get / 
+INFO 2023-04-10 16:48:59,304 main > get schedule for |ÀÑ2-221-ÎÁ|  
+INFO 2023-04-10 16:49:02,535 main > get schedule for |ÀÑ2-221-ÎÁ|  
+INFO 2023-04-10 16:49:06,809 main > get schedule for |None|  
+INFO 2023-04-10 16:49:13,318 main > get teachers 

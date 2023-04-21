@@ -1,0 +1,78 @@
+INFO 2023-03-31 08:26:47,425 main > RUNING  on http://localhost:9000 
+INFO 2023-03-31 08:26:51,038 main > get / 
+INFO 2023-03-31 08:31:38,416 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:31:42,802 main > ImmutableMultiDict([]) 
+DEBUG 2023-03-31 08:32:59,982 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:32:59,982 main > file upload 
+INFO 2023-03-31 08:33:40,582 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:33:45,738 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:33:45,739 main > file upload 
+INFO 2023-03-31 08:37:30,145 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:37:34,537 main > ImmutableMultiDict([('file', <FileStorage: '' ('application/octet-stream')>)]) 
+DEBUG 2023-03-31 08:37:34,538 main > file upload 
+DEBUG 2023-03-31 08:39:53,021 main > ImmutableMultiDict([('file', <FileStorage: '' ('application/octet-stream')>)]) 
+DEBUG 2023-03-31 08:39:53,021 main > file upload 
+DEBUG 2023-03-31 08:40:11,379 main > ImmutableMultiDict([('file', <FileStorage: '' ('application/octet-stream')>)]) 
+DEBUG 2023-03-31 08:40:11,381 main > file upload 
+DEBUG 2023-03-31 08:40:28,736 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:40:28,736 main > file upload 
+DEBUG 2023-03-31 08:40:28,740 main > None 
+DEBUG 2023-03-31 08:40:47,716 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:40:47,716 main > file upload 
+DEBUG 2023-03-31 08:40:47,720 main > None 
+INFO 2023-03-31 08:40:55,799 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:40:57,827 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:40:57,828 main > file upload 
+INFO 2023-03-31 08:41:21,060 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:41:24,463 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:41:24,463 main > file upload 
+DEBUG 2023-03-31 08:41:24,467 main > request.args.get('entry_point')=None 
+DEBUG 2023-03-31 08:41:47,877 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:41:47,877 main > file upload 
+DEBUG 2023-03-31 08:41:47,880 main > request.args.get('entry_point')=None 
+DEBUG 2023-03-31 08:41:57,587 main > ImmutableMultiDict([('file', <FileStorage: 'Задания и список литературы.docx' ('application/vnd.openxmlformats-officedocument.wordprocessingml.document')>)]) 
+DEBUG 2023-03-31 08:41:57,587 main > file upload 
+DEBUG 2023-03-31 08:41:57,588 main > request.args.get('entry_point')=None 
+DEBUG 2023-03-31 08:42:02,006 main > ImmutableMultiDict([('file', <FileStorage: 'Задания и список литературы.docx' ('application/vnd.openxmlformats-officedocument.wordprocessingml.document')>)]) 
+DEBUG 2023-03-31 08:42:02,007 main > file upload 
+DEBUG 2023-03-31 08:42:02,007 main > request.args.get('entry_point')=None 
+DEBUG 2023-03-31 08:42:08,128 main > ImmutableMultiDict([('file', <FileStorage: 'Задания и список литературы.docx' ('application/vnd.openxmlformats-officedocument.wordprocessingml.document')>)]) 
+DEBUG 2023-03-31 08:42:08,128 main > file upload 
+DEBUG 2023-03-31 08:42:08,129 main > request.args.get('entry_point')=None 
+INFO 2023-03-31 08:53:27,739 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:53:33,798 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:53:33,799 main > file upload 
+DEBUG 2023-03-31 08:53:33,806 main > request.form.get('entry_point')='”spo”' 
+INFO 2023-03-31 08:53:53,096 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 08:53:55,523 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:53:55,523 main > file upload 
+DEBUG 2023-03-31 08:53:55,528 main > ”spo” 
+DEBUG 2023-03-31 08:54:22,116 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+DEBUG 2023-03-31 08:54:22,117 main > file upload 
+DEBUG 2023-03-31 08:54:22,120 main > spo 
+INFO 2023-03-31 09:24:15,930 main > get schedule for |None|  
+INFO 2023-03-31 10:11:15,012 main > RUNING  on http://localhost:9000 
+DEBUG 2023-03-31 10:11:49,460 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+INFO 2023-03-31 10:11:49,464 upload_data > Uploading file: files/Raspisanie SPO.json, entry point: spo 
+DEBUG 2023-03-31 10:11:49,656 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 10:11:49,723 upload_data > upload model to db 
+DEBUG 2023-03-31 10:11:50,767 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 10:11:50,848 upload_data > upload model to db 
+INFO 2023-03-31 10:12:13,675 main > get schedule for |ИС1-229-ОТ|  
+INFO 2023-03-31 10:12:16,835 main > get schedule for |ИС1-229-ОТ|  
+INFO 2023-03-31 10:12:20,842 main > get / 
+INFO 2023-03-31 10:12:27,254 main > get groups 
+DEBUG 2023-03-31 10:12:27,255 download_data > get_groups_list() 
+DEBUG 2023-03-31 10:14:16,851 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+INFO 2023-03-31 10:14:16,854 upload_data > Uploading file: files/Raspisanie SPO.json, entry point: spo 
+DEBUG 2023-03-31 10:14:17,034 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 10:14:17,092 upload_data > upload model to db 
+DEBUG 2023-03-31 10:14:18,143 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 10:14:18,197 upload_data > upload model to db 
+INFO 2023-03-31 10:14:24,861 main > get schedule for |ИС1-229-ОТ|  
+DEBUG 2023-03-31 11:45:00,197 main > ImmutableMultiDict([('file', <FileStorage: 'Raspisanie SPO.json' ('application/json')>)]) 
+INFO 2023-03-31 11:45:00,201 upload_data > Uploading file: files/Raspisanie SPO.json, entry point: spo 
+DEBUG 2023-03-31 11:45:00,396 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 11:45:00,459 upload_data > upload model to db 
+DEBUG 2023-03-31 11:45:01,533 upload_data > Creating db model from JSON 
+DEBUG 2023-03-31 11:45:01,585 upload_data > upload model to db 
