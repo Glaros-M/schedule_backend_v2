@@ -35,7 +35,6 @@
 * http://localhost:9000/upload_form - форма загрузки данных
 
 Продуктивная версия работает по адресам: 
-* https://vgltuapi.ru/ - проверка соединения и allow_origin
 * https://vgltuapi.ru/groups - json groups = list[group_name]
 * https://vgltuapi.ru/schedule?group_name=БД2-192-ЗБ - таблица с конкретной группой
 * https://vgltuapi.ru/teachers - json teachers = list[teacher_name]
